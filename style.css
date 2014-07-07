@@ -1,0 +1,61 @@
+.Menu{
+	width: 300px;
+	height:65px;
+	float: left;
+	color:gray;
+	text-align:center;
+	font-size: 30px;
+	padding-top: 25px;
+	font-family: 'Inconsolata', ;
+}
+a:visited{
+	color: inherit;
+}
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	font-size: 35px;
+	
+}
+.Sayfa{
+	width: 900px;
+	height:1300px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #2c0707;
+
+}
+p{
+	color: #FA5F5F;
+	font-size:16px; 
+	text-align: center;
+
+}
+.link{
+	padding-top: 40px;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 18px;
+	color :gray;
+	text-transform: uppercase;
+}
+
+a.footer_links{
+	float: left;
+	padding-left: 135px;
+	padding-top: 10px;
+
+}
+
+.resim{
+	padding-left: 170px;
+	padding-top: 1205px;
+}
+.Footer{
+	font-size: 15px;
+	color:black;
+	text-align:center;
+
+
+}
